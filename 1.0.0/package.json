@@ -1,0 +1,9 @@
+{
+    "description": "jsdeferred",
+    "directories": {
+        "lib": "."
+    },
+    "main": "jsdeferred",
+    "name": "jsdeferred",
+    "version": "1.0.0"
+}
